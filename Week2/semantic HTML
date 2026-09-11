@@ -1,1 +1,33 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gachon Blog</title>
+</head>
+<body>
+  <header>
+    <h1>Gachon Blog</h1>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/posts">Posts</a>
+    </nav>
+  </header>
+  <main>
+    <article>
+      <h2>My First Post</h2>
+      <p>Today I explored how replacing generic <code>&lt;div&gt;</code> tags with semantic HTML elements makes a page more accessible, easier to maintain, and clearer for both developers and screen readers.</p>
+    </article>
+    <aside>
+      <h2>Recent Posts</h2>
+      <ul>
+        <li>Intro to HTML</li>
+        <li>Why Accessibility Matters</li>
+        <li>CSS Basics for Beginners</li>
+      </ul>
+    </aside>
+  </main>
+  <footer>
+    <p>&copy; 2026</p>
+  </footer>
+</body>
+</html>
