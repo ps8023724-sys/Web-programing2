@@ -1,1 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Blog Post</title>
+</head>
+<body>
+  <article>
+    <header>
+      <h2>The Rise of Graphic Novels: Bridging Literature and Art</h2>
+      <p>Written by Taylor Kim on 
+        <time datetime="2026-09-11">September 11, 2026</time>
+      </p>
+    </header>
+    <p>Graphic novels have become a <strong>recognized form of literature</strong>, studied in classrooms and celebrated in literary circles. They prove that storytelling can thrive when words and images work together, offering depth and nuance that traditional text alone sometimes cannot capture.</p>
+    <p>What makes them truly special is their <em>immersive storytelling experience</em>. Through panel design and colours artists guide readers emotionally and visually. <strong>This fusion of art and narrative</strong> allows graphic novels to bridge the gap between literature and visual art.</p>
+    <footer>
+      <p>Tags: GraphicNovels . Storytelling . ArtAndLiterature</p>
+    </footer>
+  </article>
+</body>
+</html>
 
