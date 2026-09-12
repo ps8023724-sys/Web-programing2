@@ -1,1 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI in Healthcare — Student Tech News</title>
+</head>
+<body>
+
+  <header>
+    <h1>Student Tech News</h1>
+    <nav aria-label="Main navigation">
+      <a href="/">Home</a> · <a href="/ai">AI</a> · <a href="/health">Healthcare</a>
+    </nav>
+  </header>
+
+  <main>
+    <article>
+      <header>
+        <h1><mark>AI</mark> Tools Changing Healthcare</h1>
+        <p>By the Web Programming Class ·
+           Published <time datetime="2026-09-12">September 12, 2026</time>
+        </p>
+      </header>
+
+      <figure>
+        <img src="https://picsum.photos/600/300?random=55"
+             alt="Doctor using AI software on a tablet"
+             width="600" height="300">
+        <figcaption>Hospitals now use <abbr title="Artificial Intelligence">AI</abbr> systems to support patient care.</figcaption>
+      </figure>
+
+      <section>
+        <h2>Background</h2>
+        <p>AI has entered hospitals through simple apps and advanced machines. 
+           Doctors use <code>chatbots</code> to answer patient questions and 
+           algorithms to help read medical scans. This makes healthcare faster 
+           and sometimes more accurate.</p>
+      </section>
+
+      <blockquote cite="https://example.com/health-expert">
+        <p>"AI is not replacing doctors, but it is giving them new tools to help patients."</p>
+        <footer>— <cite>Dr. Park, Medical Researcher</cite></footer>
+      </blockquote>
+
+      <section>
+        <h2>Analysis</h2>
+        <p>AI can save time and reduce mistakes, but privacy and trust are 
+           important issues. If patient data is not protected, it can cause 
+           serious problems. Students learning web programming today must 
+           understand how <mark>secure design</mark> connects to healthcare 
+           technology.</p>
+      </section>
+
+      <aside aria-label="Key facts">
+        <h2>Key Facts</h2>
+        <ul>
+          <li>AI in healthcare market growing quickly</li>
+          <li>Used for diagnosis, scheduling, and patient support</li>
+          <li>Privacy rules like <abbr title="General Data Protection Regulation">GDPR</abbr> apply</li>
+          <li>Doctors still make final decisions</li>
+        </ul>
+      </aside>
+
+      <footer>
+        <p>Tags: AI · Healthcare · Technology · Privacy</p>
+      </footer>
+    </article>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Student Tech News · Web Programming K0126002</p>
+  </footer>
+
+</body>
+</html>
 
