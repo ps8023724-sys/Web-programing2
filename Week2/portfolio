@@ -1,1 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shrestha Puja — Portfolio</title>
+</head>
+<body>
+  <header>
+    <h1>Shrestha Puja</h1>
+    <nav aria-label="Main navigation">
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- About Section -->
+    <section id="about">
+      <h2>About Me</h2>
+      <figure>
+        <img src="https://picsum.photos/200/200?random=30"
+             alt="Laptop with code editor open on screen"
+             width="200" height="200">
+        <figcaption>Computer Science student, Gachon University, Class of 2028</figcaption>
+      </figure>
+      <p>I am a student at <abbr title="Gachon University">GU</abbr>
+         focusing on <mark>web programming</mark> and user interface design.
+         I enjoy building <strong>accessible, semantic</strong> websites that
+         make information clear and engaging.</p>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+      <h2>My Projects</h2>
+      <article>
+        <header>
+          <h3>Portfolio Website</h3>
+          <p>Completed: <time datetime="2026-09">September 2026</time></p>
+        </header>
+        <p>This project demonstrates semantic <code>HTML5</code> elements
+           such as <code>header</code>, <code>main</code>, <code>article</code>,
+           and <code>aside</code>, combined to create a structured and
+           accessible portfolio page.</p>
+      </article>
+    </section>
+
+    <!-- Skills Aside -->
+    <aside id="skills" aria-label="Skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML5 &amp; Semantic Markup</li>
+        <li>CSS3 &amp; Flexbox</li>
+        <li>JavaScript Basics</li>
+        <li>Accessibility (WCAG)</li>
+      </ul>
+    </aside>
+
+    <!-- Contact Section -->
+    <section id="contact">
+      <h2>Contact</h2>
+      <address>
+        <a href="mailto:Puja@gachon.ac.kr">Puja@gachon.ac.kr</a><br>
+        Gachon University, Seongnam, Korea<br>
+        <a href="https://github.com/Puja"
+           target="_blank" rel="noopener noreferrer">GitHub</a>
+      </address>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Shrestha Puja · Web Programming K0126002 · Gachon University</p>
+  </footer>
+</body>
+</html>
 
