@@ -1,1 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Inspirational Quotes</title>
+</head>
+<body>
+  <h1>Inspirational Quotes</h1>
 
+ <p>As Helen Keller once said, <q>Alone we can do so little; together we can do so much.</q>
+</p>
+  
+<blockquote cite="https://example.com/mandela">
+    <p>Education is the most powerful weapon which you can use to change the world.</p>
+    <footer>— <cite>Nelson Mandela</cite></footer>
+  </blockquote>
+ 
+<blockquote cite="https://example.com/maya">
+    <p>You will face many defeats in life, but never let yourself be defeated.</p>
+    <footer>— <cite>Maya Angelou</cite></footer>
+  </blockquote>
+
+  <details>
+    <summary>About these quotes</summary>
+    <p>These quotes were collected from reputable sources online, including digital archives and <abbr title="World Wide Web">WWW</abbr> articles. They are shared here to inspire and motivate readers.
+    </p>
+  </details>
+</body>
+</html>
